@@ -1,0 +1,44 @@
+Oradea, Sibiu
+Oradea, Zerind
+Zerind, Arad
+Arad, Zerind
+Arad, Sibiu
+Arad, Timisora
+Timisora, Arad
+Timisora, Lugoj
+Lugoj, Timisora
+Lugoj, Mehadia
+Mehadia, Lugoj
+Mehadia, Dobreta
+Dobreta, Mehadia
+Dobreta, Craiova
+Craiova, Dobreta
+Craiova, Rimnicu Vllcea
+Craiova, Pltesti
+Craiova, Bucharest
+Rimnicu Vllcea, Craiova
+Rimnicu Vllcea, Pltesti
+Rimnicu Vllcea, Sibiu
+Sibiu, Arad
+Sibiu, Oradea
+Sibiu, Fagaras
+Fagaras, Sibiu
+Fagaras, Bucharest
+Pltesti, Rimnicu Vllcea
+Pltesti, Craiova
+Pltesti, Bucharest
+Bucharest, Glurgiu
+Bucharest, Craiova
+Bucharest, Urziceni
+Glurgiu, Bucharest
+Urziceni, Bucharest
+Urziceni, Hlrsova
+Urziceni, Vasiui
+Hlrsova, Urziceni
+Hlrsova, Eforle
+Eforle, Hlrsova
+Vasiui, Urziceni
+Vasiui, Iasi
+Iasi, Vasiui
+Iasi, Neamt
+Neamt, Iasi
